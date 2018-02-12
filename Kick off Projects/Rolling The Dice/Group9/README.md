@@ -5,8 +5,8 @@ Per Espen Schug
 
 The code of the roll_the_dice.py file simulates the game Yatzy.
 It's a game where you have 3 dices and throw them simultaneously
-in the hope that all 3 dices show the same number. When that happens
-players have to shout "Yatzy!".
+in the hope that all 3 dices display the same number. When that 
+happens, players have to shout "Yatzy!".
 
 We created 3 variables (a, b, c), which represent dices. By using a
 random function, these variables will take on a random value. To make
