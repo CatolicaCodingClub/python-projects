@@ -1,6 +1,7 @@
 Group Members:
-Thomas Dirks,
-Georgy Nagibin,
+
+Thomas Dirks
+Georgy Nagibin
 Per Espen Schug
 
 The code of the roll_the_dice.py file simulates the game Yatzy.
