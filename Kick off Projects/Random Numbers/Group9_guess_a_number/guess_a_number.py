@@ -1,6 +1,6 @@
 #Guess a number game
 # x is the variable of the number that has to be guessed
-# y is the variable for the number hat you guess
+# y is the variable for the number that you pick
 # s is the variable that counts your tries
 
 import random
