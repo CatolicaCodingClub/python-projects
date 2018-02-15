@@ -12,4 +12,7 @@ print("2nd dice:",b)
 print("3rd dice:", c)
 
 if a == b == c:
+    print("Yatzy!")
     messagebox.showinfo("All three dices are the same","Yatzy!")
+else:
+    print("Too bad. Try again!")
