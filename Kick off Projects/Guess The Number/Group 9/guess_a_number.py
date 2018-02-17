@@ -12,7 +12,7 @@ while s < 5:
     if y == x:
         print("Congratulations, you guessed right!")
         break
-    if y > x:\
+    elif y > x:
         print("The number you guessed is too high")
     else:
         print("The number you guessed is too low")
