@@ -17,5 +17,5 @@ while s < 5:
     else:
         print("The number you guessed is too low")
     s = s + 1
-    print("You have " + str(5-s) + " tries left")
+    print("You have " + str(5 - s) + " tries left")
     print("") # to make it more visually appealing
