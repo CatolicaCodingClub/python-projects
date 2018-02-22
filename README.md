@@ -18,30 +18,28 @@ It contains many packages that are useful for data manipulation purposes.
 
 Alternatively download the latest Python distribution and use a package manager like "Pip" to install the packages you need/want,
 this for the more advanced user (or those on limited space).
-```
+
 [Anaconda](https://www.anaconda.com/download/) - Recommended!
 
 [Standalone Python](https://www.python.org/downloads/)
 [Pip](https://pypi.python.org/pypi/pip)
-```
+
 
 #### IDE
 We recommend installing some kind of IDE (Integrated Development Environment) in order to get some assistance in the form of 
 linting, code completion, code suggestions (and more) while coding. Most will also allow you to interact with GitHub for all your
 comits, pushing and pulling. There are several options, we list a few popular choices below but feel free to use your own.
 
-```
+
 [PyCharm](https://www.jetbrains.com/pycharm/) - A very complete Python IDE, professional version is free to use for a year as a student.
 
 [Visual Studio Code](https://code.visualstudio.com/) - Developped by Microsoft, comes with Anaconda as well, great alternative to PyCharm.
-```
+
 
 #### Git
 To upload files to GitHub easily install Git.
 
-```
 [Git](https://git-scm.com/downloads)
-```
 
 ### Participating
 
