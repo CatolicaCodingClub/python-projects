@@ -2,15 +2,15 @@
 
 import random
 
-a = random.randint(0,7)
-b = random.randint(0,8)
-c = random.randint(0,2)
-d = random.randint(0,9)
+a = ["My", "Your", "His", "Her", "Our", "Their", "The", "A"]
+b = ["car", "hair", "boat", "house", "food", "smartphone", "jacket", "shirt", "computer"]
+c = ["is", "was", "looks"]
+d = ["nice", "cheap", "expensive", "good", "clean", "dirty", "new", "old", "big", "small"]
 
-FirstWord = ["My", "Your", "His", "Her", "Our", "Their", "The", "A"]
-SecondWord = ["car", "hair", "boat", "house", "food", "smartphone", "jacket", "shirt", "computer"]
-ThirdWord = ["is", "was", "looks"]
-ForthWord = ["nice", "cheap", "expensive", "good", "clean", "dirty", "new", "old", "big", "small"]
+FirstWord = random.choice(a)
+SecondWord = random.choice(b)
+ThirdWord = random.choice(c)
+ForthWord = random.choice(d)
 
-sentence = FirstWord[a]+ " " + SecondWord[b] + " " + ThirdWord[c] + " " + ForthWord[d] + "."
+sentence = FirstWord + " " + SecondWord + " " + ThirdWord + " " + ForthWord + "."
 print(sentence)
