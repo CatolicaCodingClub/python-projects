@@ -12,7 +12,8 @@ The members can then present their work at the next event followed by some time 
 Getting ready to code is easy but it does require some work to get your Python environment setup properly!
 We reccommend to download the following files in order to be able to participate fully.
 
-#### Python
+#### Python Packages and libraries
+
 To save time and avoid fiddling with downloading and installing packages manually downloading Anaconda is a great idea. 
 It contains many packages that are useful for data manipulation purposes. 
 
@@ -26,6 +27,7 @@ this for the more advanced user (or those on limited space).
 
 
 #### IDE
+
 We recommend installing some kind of IDE (Integrated Development Environment) in order to get some assistance in the form of 
 linting, code completion, code suggestions (and more) while coding. Most will also allow you to interact with GitHub for all your
 comits, pushing and pulling. There are several options, we list a few popular choices below but feel free to use your own.
@@ -37,6 +39,7 @@ comits, pushing and pulling. There are several options, we list a few popular ch
 
 
 #### Git
+
 To upload files to GitHub easily install Git.
 
 [Git](https://git-scm.com/downloads)
