@@ -14,5 +14,10 @@ print("3rd dice:", c)
 if a == b == c:
     print("Yatzy!")
     messagebox.showinfo("All three dices are the same","Yatzy!")
+elif: a == b != c:
+     print("Ooh No")
+     messagebox.showinfo("Miss by one","Ooh No")
+        
+    
 else:
     print("Too bad. Try again!")
